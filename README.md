@@ -1,2 +1,2 @@
-# Advent-of-Code-CPP
-Advent of Code in C++
+# Advent-of-Code
+Advent of Code
