@@ -13,7 +13,6 @@ int main(int argc, char** argv, char** env)
         exit(1);
     }
     fs::path inputfile(argv[1]);
-    auto stat = fs::status(inputfile);
     if(!fs::exists(inputfile))
     {
         cout << "File does not exist." << endl;
