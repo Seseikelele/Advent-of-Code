@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 def main():
 	measurements = None
 	with open('inputs/01.txt') as f:
